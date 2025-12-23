@@ -6,7 +6,7 @@
     "CCXTA1B2C3D4E5F6G7": {
       "customer": "user1@example.com",
       "expires_at": "2025-12-31T23:59:59",
-      "machine_id": "abc123def456",  # 首次为空，激活后填写
+      "machine_id": "abc123def456", 
       "max_activations": 1,
       "current_activations": 0,
       "is_active": true,
