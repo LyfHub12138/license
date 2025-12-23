@@ -22,5 +22,18 @@
       "features": ["full"]
     }
   },
+  {
+  "CCXT77885F7BA2D26744": {
+    "customer": "\u5f85\u586b\u5199",
+    "expires_at": "2026-12-24T02:46:33.256649",
+    "machine_id": "a18c7a0fc7e130de5fd45819",
+    "max_activations": 1,
+    "current_activations": 1,
+    "is_active": true,
+    "features": [
+      "full"
+    ]
+  }
+},
   "blacklist": []
 }
