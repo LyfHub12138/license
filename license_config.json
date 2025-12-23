@@ -1,26 +1,26 @@
 {
-  "version": "1.0",
-  "app_name": "CCXT APP",
-  "last_updated": "2024-01-15T10:00:00",
-  "licenses": {
+  "版本": "1.0",
+  "应用名称": "CCXT 应用",
+  "最后更新时间": "2024-01-15T10:00:00",
+  "许可证": {
     "CCXTA1B2C3D4E5F6G7": {
-      "customer": "user1@example.com",
-      "expires_at": "2025-12-31T23:59:59",
-      "machine_id": "abc123def456",  # 首次为空，激活后填写
-      "max_activations": 1,
-      "current_activations": 0,
-      "is_active": true,
-      "features": ["full"]
+      "客户": "user1@example.com",
+      "过期时间": "2025-12-31T23:59:59",
+      "机器ID": "abc123def456",  
+      "最大激活数": 1,
+      "当前激活": 0,
+      "is_active": 真,
+      "功能": ["完整"]
     },
     "CCXTH8I9J0K1L2M3N4": {
-      "customer": "user2@example.com",
-      "expires_at": "2024-06-30T23:59:59",
-      "machine_id": "",
-      "max_activations": 1,
-      "current_activations": 0,
-      "is_active": true,
-      "features": ["full"]
+      "客户": "user2@example.com",
+      "过期时间": "2024-06-30T23:59:59",
+      "机器ID": "",
+      "最大激活数": 1,
+      "当前激活": 0,
+      "is_active": 真,
+      "功能": ["完整"]
     }
   },
-  "blacklist": []
+  "黑名单": []
 }
